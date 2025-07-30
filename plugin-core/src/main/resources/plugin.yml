@@ -1,0 +1,7 @@
+main: "pl.kdbg.msg.Main"
+version: "1.0-InDEV"
+name: "Dream-msg"
+description: "Dream-msg plugin written by dreamcode.cc"
+website: "https://dreamcode.cc"
+author: "author"
+api-version: 1.13

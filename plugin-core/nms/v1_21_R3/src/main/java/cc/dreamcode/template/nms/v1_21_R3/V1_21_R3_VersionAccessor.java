@@ -1,0 +1,7 @@
+package pl.kdbg.msg.nms.v1_21_R3;
+
+import pl.kdbg.msg.nms.api.VersionAccessor;
+
+public class V1_21_R3_VersionAccessor implements VersionAccessor {
+
+}
