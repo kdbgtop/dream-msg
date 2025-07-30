@@ -1,7 +1,5 @@
-Working with template:
+Plugin na wiadomości.
 -----
-Take a loot at [Dream-Otchlan](https://github.com/DreamPoland/dream-otchlan), example project based on platform.
-
 **Required:**
 -----
 - Spigot-api 1.8.8 with NMS support.
